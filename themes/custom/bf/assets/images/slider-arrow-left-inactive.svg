@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="28px" viewBox="0 0 17 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 4 Copy</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Carrot-Left-Inactive" transform="translate(3.000000, 2.000000)" stroke="#889CAD" stroke-width="4">
+            <polyline id="Path-4-Copy" transform="translate(12.000000, 12.000000) scale(-1, 1) rotate(45.000000) translate(-12.000000, -12.000000) " points="4 4 20 4 20 20"></polyline>
+        </g>
+    </g>
+</svg>

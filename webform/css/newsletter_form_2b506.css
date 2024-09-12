@@ -1,0 +1,17 @@
+.paragraph--type--form-embed form .form-item.textfield:not(.form-item-firstname):not(.form-item-lastname):not(.form-item-company):not(.form-item-details) {
+    display: none;
+}
+
+.paragraph--type--form-embed form .form-item-details {
+    display: block !important;
+}
+.paragraph--type--form-embed form .form-item label {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
